@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification PHP</string>
+    <string name="fcmp">fcmshared</string>
+</resources>
